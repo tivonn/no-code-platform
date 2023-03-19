@@ -2,7 +2,7 @@
   "ids": [
     {
       "type": "element",
-      "max": 749
+      "max": 751
     },
     {
       "type": "interact",
@@ -14,7 +14,7 @@
     },
     {
       "type": "res",
-      "max": 502
+      "max": 512
     }
   ],
   "systems": [
